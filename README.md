@@ -18,14 +18,4 @@
 ![Screenshot 2022-05-19 at 18 38 25](https://user-images.githubusercontent.com/62755319/169338685-fca7d625-6a0d-445b-b466-4cf27df64aa7.png)
 
 
-"body-parser": "^1.20.0",
-        "dotenv": "^6.2.0",
-        "ejs": "^2.7.4",
-        "express": "^4.18.1",
-        "express-session": "^1.17.3",
-        "mongoose": "^5.13.14",
-        "mongoose-findorcreate": "^3.0.0",
-        "passport": "^0.4.1",
-        "passport-google-oauth20": "^1.0.0",
-        "passport-local": "^1.0.0",
-        "passport-local-mongoose": "^5.0.1"
+
